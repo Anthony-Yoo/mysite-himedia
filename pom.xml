@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.example</groupId>
-	<artifactId>mysite</artifactId>
+	<artifactId>mysite-himedia</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<packaging>war</packaging>
@@ -71,7 +71,7 @@
     </dependencies>
 
 	<build>
-		<finalName>mysite</finalName>
+		<finalName>mysite-himedia</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
